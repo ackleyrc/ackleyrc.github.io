@@ -44,7 +44,16 @@ jobs:
         run: npm run jekyll:install
 
       - name: Build site
-        run: npm run build
+        run: BUNDLE_GEMFILE=site/Gemfile bundle exec jekyll build --source site --destination site/_site --trace
+
+      - name: Confirm build output
+        run: |
+          echo "Root:"
+          ls -la
+          echo "Site:"
+          ls -la site
+          echo "Built output:"
+          ls -la site/_site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
