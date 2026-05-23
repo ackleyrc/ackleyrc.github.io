@@ -5,7 +5,7 @@
 social:
 - {icon: "Github", link: "https://github.com/ackleyrc"}
 - {icon: "LinkedIn", link: "https://www.linkedin.com/in/ackleyrobert/"}
-- {icon: "ion-ios-mail", link: "mailto:contact@robertackley.com"}
+- {icon: "mail", link: "mailto:contact@robertackley.com"}
 #- {icon: "Twitter", link: "https://twitter.com"}
 #- {icon: "Pinterest", link: "https://pinterest.com"}
 #- {icon: "Youtube", link: "https://youtube.com"}
