@@ -4,6 +4,7 @@ title: Wizard with a Gun
 subtitle: Professional Title
 image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 ---
+<h1>Info</h1>
 <ul>
   <li><b>Game:</b> Wizard with a Gun</li>
   <li><b>Publisher:</b> Devolver Digital</li>
@@ -12,6 +13,15 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
   <li><b>Timeline:</b> May 2019 - April 2021</li>
 </ul>
 
+<h1>Contributions</h1>
+• Implemented expressive AI using custom ECS architecture with native memory & multi-threading
+• Built state machines, reaction systems, hazard avoidance, group coordination, and boss mechanics
+• Developed physics-based and grid-based movement logic for diverse enemy behaviors
+• Implemented camera controls, character customization, achievements, difficulty modes
+• Extended tools to empower design, support QA, reduce errors, capture data, saving >100 hours
+• Built foundational architecture and networked gameplay mechanics for third-party client project
+
+{% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
@@ -21,3 +31,4 @@ Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
 Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+{% endcomment %}

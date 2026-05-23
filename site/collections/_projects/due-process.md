@@ -4,6 +4,7 @@ title: Due Process
 subtitle: Professional Title
 image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
 ---
+<h1>Info</h1>
 <ul>
   <li><b>Game:</b> Due Process</li>
   <li><b>Publisher:</b> Annapurna Interactive</li>
@@ -12,6 +13,15 @@ image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
   <li><b>Timeline:</b> May 2019 - April 2021</li>
 </ul>
 
+<h1>Contributions</h1>
+• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.
+• Developed Unity editor design tools to facilitate balancing, revision, content creation
+• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates
+• Integrated anti-cheat middleware to protect competitive integrity against modified clients
+• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)
+• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence
+
+{% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
@@ -21,3 +31,4 @@ Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
 Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+{% endcomment %}

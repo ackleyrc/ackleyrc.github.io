@@ -4,6 +4,7 @@ title: Metalstorm
 subtitle: Professional Title
 image: '/images/Metalstorm_Gripen_square.jpg'
 ---
+<h1>Info</h1>
 <ul>
   <li><b>Game:</b> Metalstorm</li>
   <li><b>Studio:</b> Starform</li>
@@ -11,6 +12,15 @@ image: '/images/Metalstorm_Gripen_square.jpg'
   <li><b>Timeline:</b> August 2024 - present</li>
 </ul>
 
+<h1>Contributions</h1>
+• Developing scalable systems for AI-controlled pilot behaviors in 5v5 3D aerial combat
+• Led end-to-end implementation of first PvE mode, delivering robust system with highly stable launch
+• Extending analytics to validate, balance, and optimize AI behavior changes
+• Implemented collision avoidance and steering routines, reducing aircraft crashes by >20%
+• Resolved tactical pathing issues, reducing out-of-bounds events by 80%
+• Scaled automated test-simulation workflow by 50x using Azure DevOps Pipelines
+
+{% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 
 ![Palm trees](/images/image-example-3.jpg){: width="1200" height="900"}
@@ -20,3 +30,4 @@ Praeteritis, inquit, gaudeo. Praeteritis, inquit, gaudeo. Quod, inquit, quamquam
 ![Sea](/images/image-example-4.jpg){: width="1200" height="900"}
 
 Defecerit Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu. Sunt omnia Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles servari.
+{% endcomment %}
