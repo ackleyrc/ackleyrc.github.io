@@ -14,12 +14,12 @@ image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
 </ul>
 
 <h1>Contributions</h1>
-• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.
-• Developed Unity editor design tools to facilitate balancing, revision, content creation
-• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates
-• Integrated anti-cheat middleware to protect competitive integrity against modified clients
-• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)
-• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence
+• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.<br>
+• Developed Unity editor design tools to facilitate balancing, revision, content creation<br>
+• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates<br>
+• Integrated anti-cheat middleware to protect competitive integrity against modified clients<br>
+• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)<br>
+• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence<br>
 
 {% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.

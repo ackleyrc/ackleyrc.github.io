@@ -14,12 +14,12 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 </ul>
 
 <h1>Contributions</h1>
-• Implemented expressive AI using custom ECS architecture with native memory & multi-threading
-• Built state machines, reaction systems, hazard avoidance, group coordination, and boss mechanics
-• Developed physics-based and grid-based movement logic for diverse enemy behaviors
-• Implemented camera controls, character customization, achievements, difficulty modes
-• Extended tools to empower design, support QA, reduce errors, capture data, saving >100 hours
-• Built foundational architecture and networked gameplay mechanics for third-party client project
+• Implemented expressive AI using custom ECS architecture with native memory & multi-threading<br>
+• Built state machines, reaction systems, hazard avoidance, group coordination, and boss mechanics<br>
+• Developed physics-based and grid-based movement logic for diverse enemy behaviors<br>
+• Implemented camera controls, character customization, achievements, difficulty modes<br>
+• Extended tools to empower design, support QA, reduce errors, capture data, saving >100 hours<br>
+• Built foundational architecture and networked gameplay mechanics for third-party client project<br>
 
 {% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
