@@ -3,12 +3,6 @@
   <ul class="social__list list-reset">
     {% for social in site.data.social_links.social %}
     <li class="social__item">
-      <a class="social__link" 
-        href="{{social.link}}" 
-        target="_blank" 
-        rel="noopener" 
-        aria-label="{{social.icon | downcase}} icon"><ion-icon name="{{social.icon | downcase}}"></ion-icon>
-      </a>
       {% assign social_label = social.label | default: social.icon | default: "Social link" %}
       <a class="social__link"
         href="{{ social.link }}"
