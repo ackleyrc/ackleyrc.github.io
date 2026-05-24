@@ -9,22 +9,37 @@
   .social {
     margin-bottom: 40px;
 
+    --social-link-size: 40px;
+    --social-icon-size: 16px;
+    --social-link-gap: 6px;
+
     .social__item {
-      margin: 0 2px;
+      margin: 0;
       font-size: 0;
     }
 
     .social__link {
-      display: inline-block;
-      width: 40px;
-      height: 40px;
-      line-height: 40px;
-      font-size: 16px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: var(--social-link-size);
+      height: var(--social-link-size);
+      padding: 0;
+      line-height: 1;
+      font-size: var(--social-icon-size);
       border-radius: 50%;
       color: $primary-color;
       background: $white;
       transition: all .25s;
       will-change: transform;
+
+      ion-icon,
+      .social-link__custom-icon {
+        display: block;
+        width: 1em;
+        height: 1em;
+        flex: 0 0 auto;
+      }
 
       &:hover {
         transform: scale(0.9);
