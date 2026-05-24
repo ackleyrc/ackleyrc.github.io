@@ -10,7 +10,11 @@
         {% unless social.link contains "mailto:" %}target="_blank" rel="noopener noreferrer"{% endunless %}>
 
         {% if social.icon_src %}
-          <ion-icon src="{{ social.icon_src | relative_url }}"></ion-icon>
+          <span
+            class="social-link__custom-icon"
+            style="--icon-url: url('{{ social.icon_src | relative_url }}');"
+            aria-hidden="true">
+          </span>
         {% elsif social.icon %}
           <ion-icon name="{{ social.icon | downcase }}"></ion-icon>
         {% endif %}
