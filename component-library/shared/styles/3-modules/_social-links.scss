@@ -17,9 +17,18 @@
   .social__link {
     position: relative;
     z-index: 1;
-    padding: 0 10px;
-    font-size: 21px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    font-size: 23px;
     line-height: 1;
+    vertical-align: middle;
+
+    ion-icon,
+    .social-link__custom-icon {
+      display: block;
+    }
 
     &:hover {
       color: $white;
