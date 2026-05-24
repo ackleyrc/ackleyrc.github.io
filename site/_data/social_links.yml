@@ -3,9 +3,7 @@
 # Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 social:
-- {icon: "logo-github", link: "https://github.com/ackleyrc"}
-- {icon: "logo-linkedIn", link: "https://www.linkedin.com/in/ackleyrobert/"}
-- {icon: "mail", link: "mailto:contact@robertackley.com"}
-#- {icon: "Twitter", link: "https://twitter.com"}
-#- {icon: "Pinterest", link: "https://pinterest.com"}
-#- {icon: "Youtube", link: "https://youtube.com"}
+- {icon: "logo-linkedIn", link: "https://www.linkedin.com/in/ackleyrobert/", label: "LinkedIn"}
+- {icon: "logo-github", link: "https://github.com/ackleyrc", label: "GitHub"}
+- {icon_src: "/images/itch-io.svg", link: "https://ackleyrc.itch.io/", label: "itch.io"}
+- {icon: "mail", link: "mailto:contact@robertackley.com?subject=%5Bvia%20Portfolio%5D%20Your%20Subject%20Here", label: "Email"}
