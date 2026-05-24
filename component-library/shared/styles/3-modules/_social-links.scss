@@ -20,6 +20,8 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
+    width: 42px;
+    height: 42px;
     padding: 0;
     font-size: 23px;
     line-height: 1;
@@ -28,6 +30,8 @@
     ion-icon,
     .social-link__custom-icon {
       display: block;
+      width: 1em;
+      height: 1em;
     }
 
     &:hover {
