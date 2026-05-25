@@ -1,10 +1,10 @@
 ---
-date: 2021-01-05 05:20:35 +0300
+date: 2024-08-01 00:00:00 +0100
 title: Metalstorm
 subtitle: Professional Title
 image: '/images/Metalstorm_Gripen_square.jpg'
 ---
-<h1>Info</h1>
+<h1>Basic Info</h1>
 <ul>
   <li><b>Game:</b> Metalstorm</li>
   <li><b>Studio:</b> Starform</li>
@@ -12,7 +12,7 @@ image: '/images/Metalstorm_Gripen_square.jpg'
   <li><b>Timeline:</b> August 2024 - present</li>
 </ul>
 
-<h1>Contributions</h1>
+<h1>Key Contributions</h1>
 • Developing scalable systems for AI-controlled pilot behaviors in 5v5 3D aerial combat<br>
 • Led end-to-end implementation of first PvE mode, delivering robust system with highly stable launch<br>
 • Extending analytics to validate, balance, and optimize AI behavior changes<br>

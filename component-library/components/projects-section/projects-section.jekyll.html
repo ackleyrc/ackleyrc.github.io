@@ -14,11 +14,10 @@
           </div>
 
           {% if include.show_projects %}
+          {% assign projects = site.projects | sort: "date" | reverse %}
           <div class="row">
-            {% for project in site.projects %}
-              {% if forloop.index <= 6 %}
-                {% bookshop project-card project=project %}
-              {% endif %}
+            {% for project in projects limit: 6 %}
+              {% bookshop project-card project=project %}
             {% endfor %}
           </div>
           {% endif %}

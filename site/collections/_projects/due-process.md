@@ -1,10 +1,10 @@
 ---
-date: 2021-01-08 06:20:35 +0300
+date: 2019-05-01 00:00:00 +0100
 title: Due Process
 subtitle: Professional Title
 image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
 ---
-<h1>Info</h1>
+<h1>Basic Info</h1>
 <ul>
   <li><b>Game:</b> Due Process</li>
   <li><b>Publisher:</b> Annapurna Interactive</li>
@@ -13,7 +13,7 @@ image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
   <li><b>Timeline:</b> May 2019 - April 2021</li>
 </ul>
 
-<h1>Contributions</h1>
+<h1>Key Contributions</h1>
 • Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.<br>
 • Developed Unity editor design tools to facilitate balancing, revision, content creation<br>
 • Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates<br>

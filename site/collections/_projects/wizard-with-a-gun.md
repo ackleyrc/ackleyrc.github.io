@@ -1,10 +1,10 @@
 ---
-date: 2021-01-06 05:20:35 +0300
+date: 2021-04-01 00:00:00 +0100
 title: Wizard with a Gun
 subtitle: Professional Title
 image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 ---
-<h1>Info</h1>
+<h1>Basic Info</h1>
 <ul>
   <li><b>Game:</b> Wizard with a Gun</li>
   <li><b>Publisher:</b> Devolver Digital</li>
@@ -13,7 +13,7 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
   <li><b>Timeline:</b> May 2019 - April 2021</li>
 </ul>
 
-<h1>Contributions</h1>
+<h1>Key Contributions</h1>
 • Implemented expressive AI using custom ECS architecture with native memory & multi-threading<br>
 • Built state machines, reaction systems, hazard avoidance, group coordination, and boss mechanics<br>
 • Developed physics-based and grid-based movement logic for diverse enemy behaviors<br>
