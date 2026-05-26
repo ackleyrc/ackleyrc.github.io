@@ -17,12 +17,14 @@
 
           {% assign featured_projects = site.data.featured_projects %}
           {% if featured_projects %}
+            <div class="row">
             {% for project_slug in featured_projects %}
               {% assign project = site.projects | where: "slug", project_slug | first %}
               {% if project %}
                 {% bookshop project-card project=project %}
               {% endif %}
             {% endfor %}
+            </div>
           {% endif %}
 
           {% comment %}
