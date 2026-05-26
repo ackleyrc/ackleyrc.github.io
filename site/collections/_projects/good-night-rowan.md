@@ -14,7 +14,6 @@ image: '/images/good-night-rowan_a_1440x1600.png'
 
 <h1>Key Contributions</h1>
 • Relaxing, feel-good puzzle room experience, built with C# in Unity<br>
-• Received Honorable Mention for Best Sound Design at Seattle Indies Game Jam 2018<br>
 • Encoded the puzzle sequencing, custom interactions, and overall game loop<br>
 • Implemented procedural effects such as multi-octave coherent noise to simulate firelight<br>
 

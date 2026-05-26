@@ -20,6 +20,12 @@ image: '/images/Metalstorm_Gripen_square.jpg'
 • Resolved tactical pathing issues, reducing out-of-bounds events by 80%<br>
 • Scaled automated test-simulation workflow by 50x using Azure DevOps Pipelines<br>
 
+<p>
+  <a href="https://store.epicgames.com/p/metalstorm">
+    <h2 class="project__nav__title">Playable on Epic Games Store</h2>
+  </a>
+</p>
+
 {% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 

@@ -2,7 +2,7 @@
 date: 2017-11-01 00:00:00 +0100
 title: Odd Office
 subtitle: Team Game Jam
-image: '/images/good-night-rowan_a_1440x1600.png'
+image: '/images/odd-office_a_1440x1600.png'
 ---
 <h1>Basic Info</h1>
 <ul>

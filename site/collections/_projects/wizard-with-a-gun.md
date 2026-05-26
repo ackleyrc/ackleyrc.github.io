@@ -21,6 +21,12 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 • Extended tools to empower design, support QA, reduce errors, capture data, saving >100 hours<br>
 • Built foundational architecture and networked gameplay mechanics for third-party client project<br>
 
+<p>
+  <a href="https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/">
+    <h2 class="project__nav__title">Playable on Steam</h2>
+  </a>
+</p>
+
 {% comment %}
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem.
 

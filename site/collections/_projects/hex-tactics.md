@@ -1,7 +1,7 @@
 ---
 date: 2020-11-01 00:00:00 +0100
 title: Hex Tactics
-subtitle: Solo Rapid Prototype
+subtitle: Solo Project
 image: '/images/hex-tactics_a_1440x1600.png'
 ---
 <h1>Basic Info</h1>
