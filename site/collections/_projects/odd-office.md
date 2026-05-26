@@ -1,29 +1,24 @@
 ---
-date: 2019-05-01 00:00:00 +0100
-title: Due Process
-subtitle: Professional Title
-image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
+date: 2017-11-01 00:00:00 +0100
+title: Odd Office
+subtitle: Team Game Jam
+image: '/images/good-night-rowan_a_1440x1600.png'
 ---
 <h1>Basic Info</h1>
 <ul>
-  <li><b>Game:</b> Due Process</li>
-  <li><b>Publisher:</b> Annapurna Interactive</li>
-  <li><b>Studio:</b> Giant Enemy Crab</li>
-  <li><b>Title:</b> Gameplay Engineer</li>
-  <li><b>Timeline:</b> May 2019 - April 2021</li>
+  <li><b>Game:</b> Odd Office</li>
+  <li><b>Event:</b> Pacific Science Center Interactive Experience Jam</li>
+  <li><b>Date:</b> November 2017</li>
+  <li><b>Recognition:</b> Best Game</li>
 </ul>
 
 <h1>Key Contributions</h1>
-• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.<br>
-• Developed Unity editor design tools to facilitate balancing, revision, content creation<br>
-• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates<br>
-• Integrated anti-cheat middleware to protect competitive integrity against modified clients<br>
-• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)<br>
-• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence<br>
+• FPS as an office worker battling sleep deprivation hallucinations with a stapler, built in Unity<br>
+• Implemented seeking and obstacle avoidance for airborne and ground based enemies<br>
 
 <p>
-  <a href="https://store.steampowered.com/app/753650/Due_Process/">
-    <h2 class="project__nav__title">Playable on Steam</h2>
+  <a href="https://honingstoneart.itch.io/odd-office">
+    <h2 class="project__nav__title">Playable on itch.io</h2>
   </a>
 </p>
 

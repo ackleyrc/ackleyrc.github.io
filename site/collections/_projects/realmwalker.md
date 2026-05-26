@@ -1,28 +1,24 @@
 ---
-date: 2019-05-01 00:00:00 +0100
-title: Due Process
-subtitle: Professional Title
-image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
+date: 2024-05-01 00:00:00 +0100
+title: RealmWalker
+subtitle: Team Project
+image: '/images/realmwalker_1440x1600.png'
 ---
 <h1>Basic Info</h1>
 <ul>
-  <li><b>Game:</b> Due Process</li>
-  <li><b>Publisher:</b> Annapurna Interactive</li>
-  <li><b>Studio:</b> Giant Enemy Crab</li>
-  <li><b>Title:</b> Gameplay Engineer</li>
-  <li><b>Timeline:</b> May 2019 - April 2021</li>
+  <li><b>Game:</b> Realmwalker</li>
+  <li><b>Studio:</b> Thauma Creations</li>
+  <li><b>Role:</b> AI Engineer</li>
+  <li><b>Timeline:</b> May 2024 - August 2024</li>
 </ul>
 
 <h1>Key Contributions</h1>
-• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.<br>
-• Developed Unity editor design tools to facilitate balancing, revision, content creation<br>
-• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates<br>
-• Integrated anti-cheat middleware to protect competitive integrity against modified clients<br>
-• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)<br>
-• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence<br>
+• AI Engineer on team of ~20 for action roguelike game, using C++ and blueprints in Unreal Engine 5.4<br>
+• Converted enemy AIs from state machines to behavior trees to facilitate boss fight encounters<br>
+• Implemented BT decorators and services integrating with UE’s Gameplay Ability System<br>
 
 <p>
-  <a href="https://store.steampowered.com/app/753650/Due_Process/">
+  <a href="https://store.steampowered.com/app/3301490/RealmWalker/">
     <h2 class="project__nav__title">Playable on Steam</h2>
   </a>
 </p>

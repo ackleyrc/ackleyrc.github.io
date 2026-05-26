@@ -1,29 +1,26 @@
 ---
-date: 2019-05-01 00:00:00 +0100
-title: Due Process
-subtitle: Professional Title
-image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
+date: 2018-11-01 00:00:00 +0100
+title: Good Night Rowan
+subtitle: Team Game Jam
+image: '/images/good-night-rowan_a_1440x1600.png'
 ---
 <h1>Basic Info</h1>
 <ul>
-  <li><b>Game:</b> Due Process</li>
-  <li><b>Publisher:</b> Annapurna Interactive</li>
-  <li><b>Studio:</b> Giant Enemy Crab</li>
-  <li><b>Title:</b> Gameplay Engineer</li>
-  <li><b>Timeline:</b> May 2019 - April 2021</li>
+  <li><b>Game:</b> Good Night Rowan</li>
+  <li><b>Event:</b> Seattle Indies Game Jam</li>
+  <li><b>Date:</b> November 2018</li>
+  <li><b>Recognition:</b> Honorable Mention for Best Sound Design</li>
 </ul>
 
 <h1>Key Contributions</h1>
-• Collaborated with designers to implement new UX solutions for matchmaking, gameplay, etc.<br>
-• Developed Unity editor design tools to facilitate balancing, revision, content creation<br>
-• Enhanced C# code to resolve issues in network synchronization, animations, memory, framerates<br>
-• Integrated anti-cheat middleware to protect competitive integrity against modified clients<br>
-• Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)<br>
-• Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence<br>
+• Relaxing, feel-good puzzle room experience, built with C# in Unity<br>
+• Received Honorable Mention for Best Sound Design at Seattle Indies Game Jam 2018<br>
+• Encoded the puzzle sequencing, custom interactions, and overall game loop<br>
+• Implemented procedural effects such as multi-octave coherent noise to simulate firelight<br>
 
 <p>
-  <a href="https://store.steampowered.com/app/753650/Due_Process/">
-    <h2 class="project__nav__title">Playable on Steam</h2>
+  <a href="https://andrew-hermus.itch.io/goodnight-rowan">
+    <h2 class="project__nav__title">Playable on itch.io</h2>
   </a>
 </p>
 
