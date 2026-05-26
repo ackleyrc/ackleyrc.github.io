@@ -8,7 +8,7 @@ image: '/images/Metalstorm_Gripen_square.jpg'
 <ul>
   <li><b>Game:</b> Metalstorm</li>
   <li><b>Studio:</b> Starform</li>
-  <li><b>Title:</b> AI Engineer</li>
+  <li><b>Title:</b> AI Engineer (NPC Behaviors)</li>
   <li><b>Timeline:</b> August 2024 - present</li>
 </ul>
 
