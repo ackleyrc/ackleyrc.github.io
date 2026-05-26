@@ -14,12 +14,26 @@
           </div>
 
           {% if include.show_projects %}
+
+          {% assign featured_projects = site.data.featured_projects %}
+          {% if featured_projects %}
+            {% for project_slug in featured_projects %}
+              {% assign project = site.projects | where: "slug", project_slug | first %}
+              {% if project %}
+                {% bookshop project-card project=project %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+
+          {% comment %}
           {% assign projects = site.projects | sort: "date" | reverse %}
           <div class="row">
             {% for project in projects limit: 6 %}
               {% bookshop project-card project=project %}
             {% endfor %}
           </div>
+          {% endcomment %}
+
           {% endif %}
 
         </div>
