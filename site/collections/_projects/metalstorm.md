@@ -20,6 +20,8 @@ image: '/images/Metalstorm_Gripen_square.jpg'
 • Resolved tactical pathing issues, reducing out-of-bounds events by 80%<br>
 • Scaled automated test-simulation workflow by 50x using Azure DevOps Pipelines<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rv8PsmKAQOA?si=KbVQyivWdSWnueUv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p>
   <a href="https://store.epicgames.com/p/metalstorm">
     <h2 class="project__nav__title">Playable on Epic Games Store</h2>

@@ -21,6 +21,8 @@ image: '/images/Due-Process_poster_image-only_1080x1620.jpg'
 • Implemented anti-toxicity features reducing citations from peak rate to all-time low (-63%)<br>
 • Introduced A/B test improving 7-day player retention by 4.5% with 99.9% statistical confidence<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJdI0_lncq0?si=6t0pA1mSQpPmrJQt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p>
   <a href="https://store.steampowered.com/app/753650/Due_Process/">
     <h2 class="project__nav__title">Playable on Steam</h2>

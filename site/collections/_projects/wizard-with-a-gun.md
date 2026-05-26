@@ -21,6 +21,8 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 • Extended tools to empower design, support QA, reduce errors, capture data, saving >100 hours<br>
 • Built foundational architecture and networked gameplay mechanics for third-party client project<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ldtX4d5qanA?si=SQ2Bqb5JeMzRIPdv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p>
   <a href="https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/">
     <h2 class="project__nav__title">Playable on Steam</h2>

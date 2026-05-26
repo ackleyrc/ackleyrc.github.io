@@ -17,6 +17,8 @@ image: '/images/realmwalker_1440x1600.png'
 • Converted enemy AIs from state machines to behavior trees to facilitate boss fight encounters<br>
 • Implemented BT decorators and services integrating with UE’s Gameplay Ability System<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FN5bECiuOiU?si=nTC28OjSp6bTkWZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p>
   <a href="https://store.steampowered.com/app/3301490/RealmWalker/">
     <h2 class="project__nav__title">Playable on Steam</h2>

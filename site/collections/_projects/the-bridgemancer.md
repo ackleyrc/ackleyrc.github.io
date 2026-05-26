@@ -20,6 +20,8 @@ image: '/images/bridge-building-01_1080x1080.png'
 • Built tile system, player input, bespoke pathfinding algorithm, undo history, save/load, VFX, UI/UX<br>
 • Implemented shader effects including toon, vertex sway, depth and volumetric masks<br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xSpm1-FhReU?si=XekASoUYF67jFiHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <p>
   <a href="https://store.steampowered.com/app/1375140/The_BridgeMancer/">
     <h2 class="project__nav__title">Playable on Steam</h2>
