@@ -8,7 +8,7 @@ image: '/images/Wizard-with-a-Gun_poster_titled_1080x1620.jpg'
 <ul>
   <li><b>Game:</b> Wizard with a Gun</li>
   <li><b>Publisher:</b> Devolver Digital</li>
-  <li><b>Studio:</b> Giant Enemy Crab</li>
+  <li><b>Studio:</b> Galvanic Games</li>
   <li><b>Title:</b> Gameplay Engineer</li>
   <li><b>Timeline:</b> May 2019 - April 2021</li>
 </ul>
